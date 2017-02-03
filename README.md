@@ -13,6 +13,13 @@ Features include:
 ### Changelog
  * 1.0.0.0 - Initial push
 
+### Derivative Works
+Cross Platform Communication App is a derivative work of an earlier project and uses licensed software:
+* [HybridSGDApplication](https://github.com/miyamot0/HybridSGDApplication) - [GPL-V3](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) - Copyright 2016-2017 Shawn Gilroy. [www.smallnstats.com](http://www.smallnstats.com)
+
+Cross Platform Communication App uses licensed visual images in order to operate:
+* [Mulberry Symbols](https://github.com/straight-street/mulberry-symbols) - [CC-BY-SA 2.0.](http://creativecommons.org/licenses/by-sa/2.0/uk/) - Copyright 2008-2012 Garry Paxton. [www.straight-street-.com](http://straight-street.com/)
+
 ### Referenced Works (Packages)
 Cross Platform Communication App uses a number of open source projects to work properly:
 * Newtonsoft.Json - MIT Licensed. Copyright (c) 2007 James Newton-King 
