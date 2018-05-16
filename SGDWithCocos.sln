@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGDWithCocos.Droid", "SGDWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGDWithCocos.iOS", "SGDWithCocos\SGDWithCocos.iOS\SGDWithCocos.iOS.csproj", "{EBE11835-9D82-4D9B-9014-C369B1A1FFF4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE499525-2923-4240-A6EB-E598DDD6D03F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		SGDWithCocos\SGDWithCocos.Shared\EmptyProject.Shared.projitems*{1ba0a85d-808f-4826-9228-4341ba8de542}*SharedItemsImports = 13
