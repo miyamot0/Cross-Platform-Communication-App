@@ -48,4 +48,4 @@ This is currently under development and evaluation.
 
 ### License
 ----
-Cross Platform Communication App - Copyright August 18, 2016 Shawn Gilroy, Shawn P. Gilroy. MPL Version 2.0
+Cross Platform Communication App - Copyright August 18, 2016 Shawn Gilroy, Shawn P. Gilroy. MIT
